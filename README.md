@@ -83,4 +83,4 @@ I need to focus on my JavaScript modularity for scaling up websites. I definitel
 - Name - Darwin Basqui Andre
 - Github - [Darwin-Github](https://github.com/basquii)
 - linkedin - [Darwin-Linkedin](https://www.linkedin.com/in/basqui/)
-- Hit me up - [Portfolio](https://www.basquidesign.com/)
+- Hire Me - [Portfolio](https://www.basquidesign.com/)
